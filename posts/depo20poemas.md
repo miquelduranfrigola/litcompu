@@ -4,7 +4,7 @@
 
 ```
 MÈTODE
-Cada poema d'amor ha sofert les següents 104 transformacions mitjançant el traductor de Google
+Cada poema d'amor ha sofert les següents 104 despoetitzacions mitjançant el traductor de Google
 
 [es] Spanish -> [et] Estonian -> [eu] Basque -> [fa] Persian -> [fi] Finnish -> [fr] French ->
 [fy] Frisian -> [ga] Irish -> [gd] Scots Gaelic -> [gl] Galician -> [gu] Gujarati ->
@@ -26,6 +26,8 @@ Cada poema d'amor ha sofert les següents 104 transformacions mitjançant el tra
 [ar] Arabic -> [az] Azerbaijani -> [be] Belarusian -> [bg] Bulgarian -> [bn] Bengali ->
 [bs] Bosnian -> [ca] Catalan -> [ceb] Cebuano -> [co] Corsican -> [cs] Czech -> [cy] Welsh ->
 [da] Danish -> [de] German -> [el] Greek -> [en] English -> [eo] Esperanto -> [es] Spanish
+
+Mostro el resultat sense cap modificació, més enllà de petites correccions gramaticals.
 ```
 
 ### Poema 1
@@ -149,5 +151,5 @@ Hay otras opciones por Pascua.
 Problemas griegos o de temporada.  
 Yo tenía miedo.  
 
-
+> Podeu consultar els *Veinte poemas de amor* originals [aquí](http://www.archivochile.com/Homenajes/neruda/de_neruda/homenajepneruda0007.pdf).
 
